@@ -4,7 +4,7 @@
         اخبار من اجلك
     </div>
     <div class="row g-4">
-        <div class="col-12 col-xl-6 col-xxl-4">
+        <div class="col-12 col-lg-6 col-xxl-4">
             <div class="news__for__you">
                 <div class="news__for__you__text">
                     <div class="news__for__you__text__title">
@@ -45,7 +45,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 col-xxl-4">
+        <div class="col-12 col-lg-6 col-xxl-4">
             <div class="news__for__you">
                 <div class="news__for__you__text">
                     <div class="news__for__you__text__title">
@@ -86,7 +86,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 col-xxl-4 d-flex">
+        <div class="col-12 col-lg-6 col-xxl-4 d-flex">
             <div class="row g-4">
                 <div class="news__for__you news__for__you--h col-12">
                     <div class="news__for__you__text">
@@ -168,7 +168,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 col-xxl-4 d-flex">
+        <div class="col-12 col-lg-6 col-xxl-4 d-flex">
             <div class="row g-4">
                 <div class="news__for__you news__for__you--h col-12">
                     <div class="news__for__you__text">
@@ -250,7 +250,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 col-xxl-4">
+        <div class="col-12 col-lg-6 col-xxl-4">
             <div class="news__for__you">
                 <div class="news__for__you__text">
                     <div class="news__for__you__text__title">
@@ -291,7 +291,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 col-xxl-4">
+        <div class="col-12 col-lg-6 col-xxl-4">
             <div class="news__for__you">
                 <div class="news__for__you__text">
                     <div class="news__for__you__text__title">
