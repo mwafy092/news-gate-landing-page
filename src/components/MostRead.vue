@@ -45,7 +45,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-lg-6">
+        <div class="col-12 col-lg-6 d-flex">
             <div class="row g-4">
                 <div class="news__for__you news__for__you--h col-12">
                     <div class="news__for__you__text">
