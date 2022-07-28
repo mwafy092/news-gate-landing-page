@@ -161,3 +161,14 @@
 img {
     object-fit: cover;
 }
+
+@media screen and (max-width: 768px) {
+    .news__details__info__main {
+        font-size: 16px !important;
+    }
+    .news__details__title__controllers {
+        img {
+            width: 20px !important;
+        }
+    }
+}
