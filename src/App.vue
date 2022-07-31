@@ -46,6 +46,7 @@ export default {
 body {
     background-color: #f4f4f4;
     padding: 20px;
+    font-family: 'kufi', Helvetica, Arial;
 }
 .overflow__hidden {
     overflow-y: hidden !important;
@@ -64,5 +65,9 @@ body {
     justify-content: center;
     align-content: center;
     opacity: 0.9;
+}
+@font-face {
+    font-family: 'kufi';
+    src: local('Kufi'), url(./fonts/kufu.ttf) format('truetype');
 }
 </style>
