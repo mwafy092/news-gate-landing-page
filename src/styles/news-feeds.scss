@@ -41,17 +41,32 @@
                 .news__details__title__controllers {
                     display: flex;
                     justify-content: center;
-                    align-items: flex-end;
-                    gap: 15px;
+                    align-items: center;
+                    gap: 12px;
+                    .news__details__like {
+                        display: flex;
+                        gap: 3px;
+                        justify-content: center;
+                        align-items: baseline;
+
+                        img {
+                            width: 20px;
+                        }
+                        p {
+                            color: #fff;
+                            font-size: 12px;
+                            margin: 0;
+                            padding: 0;
+                        }
+                    }
+                    .separator {
+                        height: 12px;
+                        width: 1px;
+                        background-color: #fff;
+                        opacity: 0.45;
+                    }
                     img {
                         width: 25px;
-                    }
-                    p {
-                        color: #fff;
-                        font-size: 12px;
-                        margin: 0;
-                        padding: 0;
-                        margin-left: -10px;
                     }
                 }
             }
@@ -81,7 +96,6 @@
                 .news__details__title {
                     position: absolute;
                     top: 0;
-                    width: 95%;
                     display: flex;
                     justify-content: space-between;
                     align-items: center;
@@ -113,17 +127,32 @@
                     .news__details__title__controllers {
                         display: flex;
                         justify-content: center;
-                        align-items: flex-end;
-                        gap: 15px;
-                        img {
-                            width: 15px;
+                        align-items: center;
+                        gap: 10px;
+                        .news__details__like {
+                            display: flex;
+                            gap: 3px;
+                            justify-content: center;
+                            align-items: baseline;
+
+                            img {
+                                width: 15px;
+                            }
+                            p {
+                                color: #fff;
+                                font-size: 11px;
+                                margin: 0;
+                                padding: 0;
+                            }
                         }
-                        p {
-                            color: #fff;
-                            font-size: 11px;
-                            margin: 0;
-                            padding: 0;
-                            margin-left: -10px;
+                        .separator {
+                            height: 12px;
+                            width: 1px;
+                            background-color: #fff;
+                            opacity: 0.45;
+                        }
+                        img {
+                            width: 17px;
                         }
                     }
                 }

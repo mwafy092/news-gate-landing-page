@@ -21,8 +21,11 @@
                                     <p>بوابة الأهرام</p>
                                 </div>
                                 <div class="news__details__title__controllers">
-                                    <p>292</p>
-                                    <img src="../assets/like.png" alt="" />
+                                    <div class="news__details__like">
+                                        <p>٢٩٢</p>
+                                        <img src="../assets/like.png" alt="" />
+                                    </div>
+                                    <div class="separator"></div>
                                     <img src="../assets/dotted.png" alt="" />
                                 </div>
                             </div>
@@ -55,8 +58,11 @@
                                     <p>بوابة الأهرام</p>
                                 </div>
                                 <div class="news__details__title__controllers">
-                                    <p>292</p>
-                                    <img src="../assets/like.png" alt="" />
+                                    <div class="news__details__like">
+                                        <p>٢٩٢</p>
+                                        <img src="../assets/like.png" alt="" />
+                                    </div>
+                                    <div class="separator"></div>
                                     <img src="../assets/dotted.png" alt="" />
                                 </div>
                             </div>
@@ -89,8 +95,11 @@
                                     <p>بوابة الأهرام</p>
                                 </div>
                                 <div class="news__details__title__controllers">
-                                    <p>292</p>
-                                    <img src="../assets/like.png" alt="" />
+                                    <div class="news__details__like">
+                                        <p>٢٩٢</p>
+                                        <img src="../assets/like.png" alt="" />
+                                    </div>
+                                    <div class="separator"></div>
                                     <img src="../assets/dotted.png" alt="" />
                                 </div>
                             </div>
@@ -123,8 +132,11 @@
                                     <p>بوابة الأهرام</p>
                                 </div>
                                 <div class="news__details__title__controllers">
-                                    <p>292</p>
-                                    <img src="../assets/like.png" alt="" />
+                                    <div class="news__details__like">
+                                        <p>٢٩٢</p>
+                                        <img src="../assets/like.png" alt="" />
+                                    </div>
+                                    <div class="separator"></div>
                                     <img src="../assets/dotted.png" alt="" />
                                 </div>
                             </div>
@@ -157,8 +169,11 @@
                                 <p>بوابة الأهرام</p>
                             </div>
                             <div class="news__details__title__controllers">
-                                <p>292</p>
-                                <img src="../assets/like.png" alt="" />
+                                <div class="news__details__like">
+                                    <p>٢٩٢</p>
+                                    <img src="../assets/like.png" alt="" />
+                                </div>
+                                <div class="separator"></div>
                                 <img src="../assets/dotted.png" alt="" />
                             </div>
                         </div>
@@ -186,8 +201,11 @@
                                 <p>بوابة الأهرام</p>
                             </div>
                             <div class="news__details__title__controllers">
-                                <p>292</p>
-                                <img src="../assets/like.png" alt="" />
+                                <div class="news__details__like">
+                                    <p>٢٩٢</p>
+                                    <img src="../assets/like.png" alt="" />
+                                </div>
+                                <div class="separator"></div>
                                 <img src="../assets/dotted.png" alt="" />
                             </div>
                         </div>
