@@ -1,5 +1,5 @@
 <template>
-    <div class="row g-4">
+    <div class="row g-4 my-5">
         <div class="col-8">
             <div class="section__title">
                 <span class="section__title__border"></span>
@@ -50,7 +50,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-lg-6 d-flex">
+                <div class="col-12 col-lg-6">
                     <div class="row g-4">
                         <div class="news__for__you news__for__you--h col-12">
                             <div class="news__for__you__text">

@@ -1,5 +1,8 @@
 <template>
-    <div class="row news__feeds gy-2 g-md-3 g-lg-4" style="--bs-gutter-y: 14px">
+    <div
+        class="row news__feeds gy-2 g-md-3 g-lg-4 my-5"
+        style="--bs-gutter-y: 14px"
+    >
         <div class="col-12 col-md-12 col-lg-8">
             <swiper
                 :pagination="{ clickable: true }"

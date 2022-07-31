@@ -1,9 +1,9 @@
 <template>
-    <div class="section__title">
-        <span class="section__title__border"></span>
-        اقتصاد
-    </div>
-    <div class="row g-4">
+    <div class="row g-4 my-5">
+        <div class="section__title">
+            <span class="section__title__border"></span>
+            اقتصاد
+        </div>
         <div class="col-12 col-lg-6 col-xl-4">
             <div class="news__for__you">
                 <div class="news__for__you__text">
