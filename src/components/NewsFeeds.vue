@@ -1,5 +1,5 @@
 <template>
-    <div class="row news__feeds g-2">
+    <div class="row news__feeds gy-2 g-md-3 g-lg-4" style="--bs-gutter-y: 14px">
         <div class="col-12 col-md-12 col-lg-8">
             <swiper
                 :pagination="{ clickable: true }"
@@ -145,7 +145,7 @@
             </swiper>
         </div>
         <div class="col-12 col-md-12 col-lg-4 news__feeds__latest">
-            <div class="row g-2 g-lg-1">
+            <div class="row gy-2 g-md-4 g-lg-1" style="--bs-gutter-y: 14px">
                 <div class="news__feeds__main col-md-6 col-lg-12">
                     <img src="../assets/news.jpeg" />
                     <div class="news__details">
