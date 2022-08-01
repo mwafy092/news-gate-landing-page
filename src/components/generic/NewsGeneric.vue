@@ -20,7 +20,7 @@
                     <p>بوابة الأهرام</p>
                 </div>
                 <img
-                    src="../../assets/dotted-gray.jpeg"
+                    src="../../assets/gray-menu.png"
                     alt=""
                     class="dotted__icon"
                 />
@@ -40,8 +40,13 @@
                     .
                     <span class="news__for__you__timing">منذ ساعتين</span>
                 </div>
-                <div class="news__for__you__controller">
-                    <p>292</p>
+                <div
+                    :class="[
+                        'news__for__you__controller',
+                        position && 'news__for__you__controllers__dir',
+                    ]"
+                >
+                    <p>٢٧</p>
                     <img src="../../assets/like-gray.png" alt="" />
                 </div>
             </div>

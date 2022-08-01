@@ -1,6 +1,7 @@
 <template>
     <div class="news__feeds__main">
         <img src="../../assets/news.jpeg" alt="" />
+
         <div class="news__details">
             <div class="news__details__title">
                 <div class="news__details__title__info">

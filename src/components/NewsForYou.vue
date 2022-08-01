@@ -3,7 +3,7 @@
         <span class="section__title__border"></span>
         اخبار من اجلك
     </div>
-    <div class="row g-4">
+    <div class="row g-2">
         <div class="col-md-6 col-xl-4">
             <NewsGeneric />
         </div>
