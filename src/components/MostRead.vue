@@ -2,8 +2,11 @@
     <div class="row g-4 my-5">
         <div class="col-xl-8">
             <div class="section__title">
-                <span class="section__title__border"></span>
-                الاكثر قراءة
+                <span>
+                    <span class="section__title__border"></span>
+                    الاكثر قراءة
+                </span>
+                <span class="more__button">المزيد</span>
             </div>
             <div class="row g-4">
                 <div class="col-lg-6">
@@ -23,8 +26,10 @@
         </div>
         <div class="col-xl-4">
             <div class="section__title" style="color: #b50d0d">
-                <span class="section__title__border"></span>
-                اخبار عاجلة
+                <span>
+                    <span class="section__title__border"></span>
+                    اخبار عاجلة
+                </span>
             </div>
             <div class="row">
                 <div class="col-12">

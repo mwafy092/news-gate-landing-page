@@ -1,7 +1,10 @@
 <template>
     <div class="section__title">
-        <span class="section__title__border"></span>
-        اخبار من اجلك
+        <span>
+            <span class="section__title__border"></span>
+            اخبار من اجلك
+        </span>
+        <span class="more__button">المزيد</span>
     </div>
     <div class="row g-2">
         <div class="col-md-6 col-xl-4">
