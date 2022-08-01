@@ -4,6 +4,13 @@
     grid-auto-flow: dense;
     direction: ltr;
 }
+.news__for__you--dir {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.news__for__you__image__placement {
+    grid-template-columns: 1fr;
+}
 .section__title {
     font-size: 30px;
     border-top: 3px solid #7e90a1;
@@ -21,7 +28,7 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            width: 95%;
+            width: 100%;
             padding: 10px;
             .dotted__icon {
                 width: 25px;
