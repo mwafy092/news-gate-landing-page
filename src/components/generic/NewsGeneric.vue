@@ -29,7 +29,12 @@
                 موعد مباراة بيراميدز وزاناكو في الكونفدرالية الإفريقية والقناة
                 الناقلة
             </div>
-            <div class="news__for__you__footer">
+            <div
+                :class="[
+                    'news__for__you__footer',
+                    position && 'news__for__you--dir',
+                ]"
+            >
                 <div class="news__for__you__date">
                     <span class="news__for__you__news__source">أخبار مصر</span>
                     .
