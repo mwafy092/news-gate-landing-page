@@ -21,8 +21,10 @@
     border-top: 3px solid #7e90a1;
     padding: 20px 0;
     .section__title__border {
-        height: 10px;
-        border: 2px solid #b50d0d;
+        height: 23px;
+        width: 4px;
+        display: inline-block;
+        background-color: #b50d0d;
         margin-left: 10px;
     }
 }
